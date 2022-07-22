@@ -1,0 +1,2 @@
+# FOODORDERING-SYSTEM
+The “Food Ordering System" has been developed to override the  problems prevailing in the participating manual system. This  software is supported to eleminate and in some cases reduce the  hardships faced by the existing system. Moreover this system is  designed for the particular need of the company to carry out  operations in a smooth and effective manner. The application is  reduced as much as possible to avoid errors while entering the data. 
